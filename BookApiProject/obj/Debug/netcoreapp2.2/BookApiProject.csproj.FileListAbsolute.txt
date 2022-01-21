@@ -1,0 +1,59 @@
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.deps.json
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.json
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cache
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cs
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfo.cs
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Windows\Desktop\BookAPIGUI-master\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.pdb
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.deps.json
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.json
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cache
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cs
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfo.cs
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Windows\Desktop\New folder (5)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.pdb
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.deps.json
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.json
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cache
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cs
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfo.cs
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.dll
+C:\Users\Windows\Desktop\New folder (7)\BookAPI-start\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.pdb
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\appsettings.json
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.deps.json
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.json
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.runtimeconfig.dev.json
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.dll
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\bin\Debug\netcoreapp2.2\BookApiProject.pdb
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csproj.CoreCompileInputs.cache
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cache
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorAssemblyInfo.cs
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfoInputs.cache
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.AssemblyInfo.cs
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.RazorTargetAssemblyInfo.cache
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.dll
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.pdb
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.genruntimeconfig.cache
+E:\ProjectsWorks\Practices\DotnetCore\Step-By-StepConsumeWebAPIinASP.NetCoreMVC\BookApiProject\obj\Debug\netcoreapp2.2\BookApiProject.csproj.AssemblyReference.cache
